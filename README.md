@@ -20,7 +20,7 @@ Tools
 
 📫 How to reach me : 
 <br />
-<img src="https://img.shields.io/badge/kdytree10@naver.com-ffffff?&logo=gmail"> <a href="https://www.notion.so/3dc4a1653e7944389bafc8f66b81318b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/kdytree10@naver.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/></a>
 
 
 <!--
