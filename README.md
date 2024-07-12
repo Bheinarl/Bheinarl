@@ -7,7 +7,7 @@
 
 <center>
 
-[![Bheinarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheinarl&include_all_commits=true&theme=highcontrast&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![Bheinarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheinarl&include_all_commits=true&theme=highcontrast&hide_border=true&count_private=true)](https://github.com/Bheinarl/github-readme-stats)
 
 </center>   
 
@@ -26,7 +26,7 @@
 
 ## 📫 How to reach me : 
 <br />
-<a href="mailto:kdytree10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdytree10@gmail.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/></a>
+<a href="mailto:kdytree10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdytree10@gmail.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/></a>
 
 
 <!--
