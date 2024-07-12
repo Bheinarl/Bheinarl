@@ -9,25 +9,30 @@ GitHub 꾸준히 채워보겠습니다.
 <br />
 <br />
 
+<div align='center'>   
 
-[![Bheinarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheinarl&include_all_commits=true&theme=highcontrast&hide_border=true&count_private=true)](https://github.com/Bheinarl?tab=repositories)
+## 🏅Stats   
+
+<br />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bheinarl&theme=vue)
 
 </div>   
 
 <br />
 
-### Languages   
+## 💻 Languages   
 <br />
 <img src="https://img.shields.io/badge/Python-fcd142?&logo=python">   
 <br />
 <br />   
 
-<!-- ### Tools   
+<!-- ## Tools   
 <br />
 <br />
 <br /> -->
 
-## 📫 How to reach me : 
+## 📫 How to reach me
 <br />
 <a href="mailto:kdytree10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdytree10@gmail.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/> <a href="https://www.instagram.com/k__dyeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?&logo=instagram&logoColor=f7056e"/>
 
