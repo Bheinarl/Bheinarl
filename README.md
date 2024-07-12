@@ -1,13 +1,13 @@
 ## Hi 👋
  <br />
+<div align='center'>
 현재 SSAFY에서 Python 트랙 교육을 수강하고 있는 곽동연입니다.   
 
-Github 꾸준히 채워보겠습니다.
+GitHub 꾸준히 채워보겠습니다.
 <br />
 <br />
 <br />
 
-<div align='center'>
 
 [![Bheinarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheinarl&include_all_commits=true&theme=highcontrast&hide_border=true&count_private=true)](https://github.com/Bheinarl/github-readme-stats)
 
