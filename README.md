@@ -7,11 +7,11 @@ Github 꾸준히 채워보겠습니다.
 <br />
 <br />
 
-<center>
+<p align='center'>
 
 [![Bheinarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheinarl&include_all_commits=true&theme=highcontrast&hide_border=true&count_private=true)](https://github.com/Bheinarl/github-readme-stats)
 
-</center>   
+</p>   
 
 <br />
 
@@ -21,10 +21,10 @@ Github 꾸준히 채워보겠습니다.
 <br />
 <br />   
 
-### Tools   
+<!-- ### Tools   
 <br />
 <br />
-<br />
+<br /> -->
 
 ## 📫 How to reach me : 
 <br />
