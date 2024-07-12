@@ -1,5 +1,28 @@
 ## Hi there 👋
- 
+ <br />
+ 현재 SSAFY에서 Python 트랙 교육을 수강하고 있는 곽동연입니다.   
+<br />
+<br />
+<br />
+
+
+![Bheinarl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bheinarl&show_icons=true&theme=radical)   
+
+Languages   
+<br />
+<img src="https://img.shields.io/badge/Python-fcd142?&logo=python">   
+<br />
+<br />
+Tools   
+<br />
+<br />
+<br />
+
+📫 How to reach me : 
+<br />
+<img src="https://img.shields.io/badge/kdytree10@naver.com-ffffff?&logo=gmail"> <a href="https://www.notion.so/3dc4a1653e7944389bafc8f66b81318b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/></a>
+
+
 <!--
 **Bheinarl/Bheinarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
