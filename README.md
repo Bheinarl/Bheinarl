@@ -1,6 +1,8 @@
 ## Hi there 👋
  <br />
- 현재 SSAFY에서 Python 트랙 교육을 수강하고 있는 곽동연입니다.   
+현재 SSAFY에서 Python 트랙 교육을 수강하고 있는 곽동연입니다.   
+
+Github 꾸준히 채워보겠습니다.
 <br />
 <br />
 <br />
@@ -26,7 +28,7 @@
 
 ## 📫 How to reach me : 
 <br />
-<a href="mailto:kdytree10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdytree10@gmail.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/></a>
+<a href="mailto:kdytree10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdytree10@gmail.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/> <a href="https://www.instagram.com/k__dyeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?&logo=instagram&logoColor=f7056e"/>
 
 
 <!--
