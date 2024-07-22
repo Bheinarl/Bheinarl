@@ -36,6 +36,9 @@ GitHub 꾸준히 채워보겠습니다.
 <br />
 <a href="mailto:kdytree10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdytree10@gmail.com-ffffff?&logo=gmail"> <a href="https://clumsy-marimba-0f6.notion.site/SSAFY-94a579c0bee24b63ba72d7945ac5ba92" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?&logo=notion&logoColor=000000"/> <a href="https://www.instagram.com/k__dyeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?&logo=instagram&logoColor=f7056e"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bheinarl&layout=donut&show_icons=true&theme=material-Synthwave'84&hide_border=true&bg_color=525283FF&icon_color=8D49FFFF&text_color=EBDDEBFF&title_color=EBCAEBFF&count_private=true&exclude_repo=Face-Transfer-Application" width=39.5% />
+
 
 <!--
 **Bheinarl/Bheinarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
