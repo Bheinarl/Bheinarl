@@ -23,6 +23,7 @@ GitHub 꾸준히 채워보겠습니다.
 
 ## 💻 Learning Languages & Frameworks & Skills
 <br />
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
